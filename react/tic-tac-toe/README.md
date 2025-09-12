@@ -66,4 +66,4 @@ yarn build
 ## License
 
 This project is provided for educational and demonstration purposes only.  
-Commercial use, redistribution, or modification for production is not permitted without permission.
+Commercial use, redistribution, or modification for production is not permitted without permission.0
