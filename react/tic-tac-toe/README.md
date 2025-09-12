@@ -65,4 +65,5 @@ yarn build
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is provided for educational and demonstration purposes only.  
+Commercial use, redistribution, or modification for production is not permitted without permission.
